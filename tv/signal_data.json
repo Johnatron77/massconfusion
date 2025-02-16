@@ -1,0 +1,21 @@
+{
+  "pf": "secret_alert_key",
+  "side": "buy",
+  "time": "{{timenow}}",
+  "symbol":"{{ticker}}",
+  "exchange": "{{exchange}}",
+  "kline": {
+    "start_time": "{{time}}",
+    "interval": "{{interval}}",
+    "open": "{{open}}",
+    "low": "{{low}}",
+    "high": "{{high}}",
+    "close": "{{close}}",
+    "volume": "{{volume}}"
+  },
+  "rsi": {
+    "period": 14,
+    "upper": 68,
+    "lower": 30
+  }
+}
