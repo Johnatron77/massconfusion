@@ -1,0 +1,137 @@
+(venv) jamesrobb:trader (main) % python3 manage.py wootrade_ws
+=================ALGO REPORT===================
+2828742
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2828742, 'parentAlgoOrderId': 0, 'algoOrderId': 2828742, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'BUY', 'quantity': 0.0001, 'triggerPrice': 37139, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700753784511, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================BALANCE===================
+{'balances': {'USDT': {'holding': 99.88835835, 'frozen': 0.0, 'interest': 0.0, 'pendingShortQty': 0.0, 'pendingExposure': 0.0, 'pendingLongQty': 0.0, 'pendingLongExposure': 0.0, 'version': 83, 'staked': 0.0, 'unbonding': 0.0, 'vault': 0.0, 'launchpadVault': 0.0, 'earn': 0.0, 'averageOpenPrice': 0.0, 'pnl24H': 0.0, 'fee24H': 0.0, 'markPrice': 1.0, 'pnl24HPercentage': 0.0}}}
+===================================================
+=================ALGO REPORT===================
+2828742
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2828742, 'parentAlgoOrderId': 0, 'algoOrderId': 2828742, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'TAKE_PROFIT', 'side': 'BUY', 'quantity': 0.0001, 'triggerPrice': 37025, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700755583113, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'REPLACED', 'algoStatus': 'REPLACED'}
+===================================================
+=================ALGO REPORT===================
+2828742
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2828742, 'parentAlgoOrderId': 0, 'algoOrderId': 2828742, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'TAKE_PROFIT', 'side': 'BUY', 'quantity': 0.0001, 'triggerPrice': 37025, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700755772366, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'CANCELLED', 'algoStatus': 'CANCELLED'}
+===================================================
+=================ALGO REPORT===================
+2829113
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829113, 'parentAlgoOrderId': 0, 'algoOrderId': 2829113, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0002, 'triggerPrice': 37066, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700757205224, 'visibleQuantity': 0.0002, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829114
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829114, 'parentAlgoOrderId': 0, 'algoOrderId': 2829114, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37066, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700757205569, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829113
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829113, 'parentAlgoOrderId': 0, 'algoOrderId': 2829113, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0002, 'triggerPrice': 37066, 'triggerStatus': 'TRIGGERING', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 37066, 'triggerTime': 1700758010278, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700758010305, 'visibleQuantity': 0.0002, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': True, 'isTriggered': True, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829113
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829113, 'parentAlgoOrderId': 0, 'algoOrderId': 2829113, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0002, 'triggerPrice': 37066, 'triggerStatus': 'SUCCESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 37066, 'triggerTime': 1700758010278, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': 'USDT', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700758010333, 'visibleQuantity': 0.0002, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': True, 'isTriggered': True, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829114
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829114, 'parentAlgoOrderId': 0, 'algoOrderId': 2829114, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37066, 'triggerStatus': 'TRIGGERING', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 37066, 'triggerTime': 1700758010298, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700758010343, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': True, 'isTriggered': True, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829113
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829113, 'parentAlgoOrderId': 0, 'algoOrderId': 2829113, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0002, 'triggerPrice': 37066, 'triggerStatus': 'SUCCESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 37066, 'triggerTime': 1700758010278, 'tradeId': 485826661, 'executedPrice': 37067, 'executedQuantity': 0.0002, 'fee': 0.00185335, 'reason': '', 'feeAsset': 'USDT', 'totalExecutedQuantity': 0.0002, 'averageExecutedPrice': 37067, 'totalFee': 0.00185335, 'timestamp': 1700758010360, 'visibleQuantity': 0.0002, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': True, 'isTriggered': True, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'FILLED', 'algoStatus': 'FILLED'}
+===================================================
+=================ALGO REPORT===================
+2829114
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829114, 'parentAlgoOrderId': 0, 'algoOrderId': 2829114, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37066, 'triggerStatus': 'SUCCESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 37066, 'triggerTime': 1700758010298, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': 'USDT', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700758010381, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': True, 'isTriggered': True, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829114
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829114, 'parentAlgoOrderId': 0, 'algoOrderId': 2829114, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37066, 'triggerStatus': 'SUCCESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 37066, 'triggerTime': 1700758010298, 'tradeId': 485826663, 'executedPrice': 37067, 'executedQuantity': 0.0001, 'fee': 0.00092668, 'reason': '', 'feeAsset': 'USDT', 'totalExecutedQuantity': 0.0001, 'averageExecutedPrice': 37067, 'totalFee': 0.00092668, 'timestamp': 1700758010402, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': True, 'isTriggered': True, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'FILLED', 'algoStatus': 'FILLED'}
+===================================================
+=================BALANCE===================
+{'balances': {'USDT': {'holding': 99.842205, 'frozen': 0.0, 'interest': 0.0, 'pendingShortQty': 0.0, 'pendingExposure': 0.0, 'pendingLongQty': 0.0, 'pendingLongExposure': 0.0, 'version': 85, 'staked': 0.0, 'unbonding': 0.0, 'vault': 0.0, 'launchpadVault': 0.0, 'earn': 0.0, 'averageOpenPrice': 0.0, 'pnl24H': 0.0, 'fee24H': 0.0, 'markPrice': 1.0, 'pnl24HPercentage': 0.0}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': 0.0, 'pendingLongQty': 0.0, 'pendingShortQty': -0.0001, 'averageOpenPrice': 37288.5, 'pnl24H': 0.0504, 'fee24H': 0.01121481, 'settlePrice': 0.0, 'markPrice': 37079.482190425566, 'version': 111, 'openingTime': 0, 'pnl24HPercentage': 0.00269195, 'adlQuantile': 1}}}
+===================================================
+=================BALANCE===================
+{'balances': {'USDT': {'holding': 99.84127832, 'frozen': 0.0, 'interest': 0.0, 'pendingShortQty': 0.0, 'pendingExposure': 0.0, 'pendingLongQty': 0.0, 'pendingLongExposure': 0.0, 'version': 86, 'staked': 0.0, 'unbonding': 0.0, 'vault': 0.0, 'launchpadVault': 0.0, 'earn': 0.0, 'averageOpenPrice': 0.0, 'pnl24H': 0.0, 'fee24H': 0.0, 'markPrice': 1.0, 'pnl24HPercentage': 0.0}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0001, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 37067.0, 'pnl24H': 0.0061, 'fee24H': 0.01399484, 'settlePrice': 37067.0, 'markPrice': 37079.482190425566, 'version': 112, 'openingTime': 1700758010383, 'pnl24HPercentage': 0.000233, 'adlQuantile': 1}}}
+===================================================
+=================ALGO REPORT===================
+2828412
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2828412, 'parentAlgoOrderId': 0, 'algoOrderId': 2828412, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 36334, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700758010836, 'visibleQuantity': 0.0001, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'CANCELLED', 'algoStatus': 'CANCELLED'}
+===================================================
+=================ALGO REPORT===================
+2827922
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2827922, 'parentAlgoOrderId': 0, 'algoOrderId': 2827922, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 36438, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700758011168, 'visibleQuantity': 0.0001, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'CANCELLED', 'algoStatus': 'CANCELLED'}
+===================================================
+=================ALGO REPORT===================
+2829155
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829155, 'parentAlgoOrderId': 0, 'algoOrderId': 2829155, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'BUY', 'quantity': 0.0001, 'triggerPrice': 37966, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700758011607, 'visibleQuantity': 0.0001, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829300
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829300, 'parentAlgoOrderId': 0, 'algoOrderId': 2829300, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37123, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700760262503, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================ALGO REPORT===================
+2829300
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829300, 'parentAlgoOrderId': 0, 'algoOrderId': 2829300, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37167, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700760798610, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'REPLACED', 'algoStatus': 'REPLACED'}
+===================================================
+=================ALGO REPORT===================
+2829300
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829300, 'parentAlgoOrderId': 0, 'algoOrderId': 2829300, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37167, 'triggerStatus': 'TRIGGERING', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 37163, 'triggerTime': 1700760864420, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700760864461, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': True, 'isTriggered': True, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0001, 'pendingLongQty': 0.0, 'pendingShortQty': -0.0001, 'averageOpenPrice': 37067.0, 'pnl24H': 0.0061, 'fee24H': 0.01399484, 'settlePrice': 37067.0, 'markPrice': 37178.21173389, 'version': 113, 'openingTime': 1700758010383, 'pnl24HPercentage': 0.000233, 'adlQuantile': 1}}}
+===================================================
+=================BALANCE===================
+{'balances': {'USDT': {'holding': 99.84034929, 'frozen': 0.0, 'interest': 0.0, 'pendingShortQty': 0.0, 'pendingExposure': 0.0, 'pendingLongQty': 0.0, 'pendingLongExposure': 0.0, 'version': 87, 'staked': 0.0, 'unbonding': 0.0, 'vault': 0.0, 'launchpadVault': 0.0, 'earn': 0.0, 'averageOpenPrice': 0.0, 'pnl24H': 0.0, 'fee24H': 0.0, 'markPrice': 1.0, 'pnl24HPercentage': 0.0}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0002, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 37114.0, 'pnl24H': 0.0061, 'fee24H': 0.01399484, 'settlePrice': 37114.0, 'markPrice': 37178.21173389, 'version': 114, 'openingTime': 0, 'pnl24HPercentage': 0.000233, 'adlQuantile': 1}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0002, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 37114.0, 'pnl24H': 0.0061, 'fee24H': 0.01492387, 'settlePrice': 37114.0, 'markPrice': 37178.21173389, 'version': 114, 'openingTime': 0, 'pnl24HPercentage': 0.000233, 'adlQuantile': 1}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0002, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 37114.0, 'pnl24H': 0.0061, 'fee24H': 0.01492387, 'settlePrice': 37114.0, 'markPrice': 37155.18840988, 'version': 114, 'openingTime': 0, 'pnl24HPercentage': 0.000233, 'adlQuantile': 2}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0002, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 37114.0, 'pnl24H': 0.0061, 'fee24H': 0.01492387, 'settlePrice': 37114.0, 'markPrice': 37157.76194642, 'version': 114, 'openingTime': 0, 'pnl24HPercentage': 0.000233, 'adlQuantile': 1}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0002, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 37114.0, 'pnl24H': 0.0061, 'fee24H': 0.01492387, 'settlePrice': 37114.0, 'markPrice': 37152.91876909, 'version': 114, 'openingTime': 0, 'pnl24HPercentage': 0.000233, 'adlQuantile': 2}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0002, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 37114.0, 'pnl24H': 0.0061, 'fee24H': 0.01492387, 'settlePrice': 37114.0, 'markPrice': 37177.41765603262, 'version': 114, 'openingTime': 0, 'pnl24HPercentage': 0.000233, 'adlQuantile': 1}}}
+===================================================
+=================ALGO REPORT===================
+2829417
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829417, 'parentAlgoOrderId': 0, 'algoOrderId': 2829417, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37141, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700761658335, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'NEW', 'algoStatus': 'NEW'}
+===================================================
+====================REPORT========================
+{'symbol': 'PERP_BTC_USDT', 'clientOrderId': 0, 'orderId': 1319852069, 'type': 'MARKET', 'side': 'BUY', 'quantity': 0.0002, 'price': 0.0, 'tradeId': 0, 'executedPrice': 0.0, 'executedQuantity': 0.0, 'fee': 0.0, 'feeAsset': 'USDT', 'totalExecutedQuantity': 0.0, 'status': 'NEW', 'reason': '', 'orderTag': 'default', 'totalFee': 0.0, 'visible': 0.0, 'timestamp': 1700762795015, 'reduceOnly': True, 'maker': False}
+===================================================
+====================REPORT========================
+{'symbol': 'PERP_BTC_USDT', 'clientOrderId': 0, 'orderId': 1319852069, 'type': 'MARKET', 'side': 'BUY', 'quantity': 0.0002, 'price': 0.0, 'tradeId': 485828923, 'executedPrice': 37278.0, 'executedQuantity': 0.0002, 'fee': 0.0018639, 'feeAsset': 'USDT', 'totalExecutedQuantity': 0.0002, 'avgPrice': 37278, 'status': 'FILLED', 'reason': '', 'orderTag': 'default', 'totalFee': 0.0018639, 'visible': 0.0, 'timestamp': 1700762795015, 'reduceOnly': True, 'maker': False}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': -0.0002, 'pendingLongQty': 0.0002, 'pendingShortQty': 0.0, 'averageOpenPrice': 37114.0, 'pnl24H': 0.0061, 'fee24H': 0.01492387, 'settlePrice': 37114.0, 'markPrice': 37270.84328231, 'version': 115, 'openingTime': 0, 'pnl24HPercentage': 0.000233, 'adlQuantile': 1}}}
+===================================================
+=================BALANCE===================
+{'balances': {'USDT': {'holding': 99.80568539, 'frozen': 0.0, 'interest': 0.0, 'pendingShortQty': 0.0, 'pendingExposure': 0.0, 'pendingLongQty': 0.0, 'pendingLongExposure': 0.0, 'version': 89, 'staked': 0.0, 'unbonding': 0.0, 'vault': 0.0, 'launchpadVault': 0.0, 'earn': 0.0, 'averageOpenPrice': 0.0, 'pnl24H': 0.0, 'fee24H': 0.0, 'markPrice': 1.0, 'pnl24HPercentage': 0.0}}}
+===================================================
+=================POSITION===================
+{'positions': {'PERP_BTC_USDT': {'holding': 0.0, 'pendingLongQty': 0.0, 'pendingShortQty': 0.0, 'averageOpenPrice': 0.0, 'pnl24H': -0.0267, 'fee24H': 0.01678777, 'settlePrice': 0.0, 'markPrice': 37270.84328231, 'version': 116, 'openingTime': 0, 'pnl24HPercentage': -0.00079457, 'adlQuantile': 1}}}
+===================================================
+=================ALGO REPORT===================
+2829417
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829417, 'parentAlgoOrderId': 0, 'algoOrderId': 2829417, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'SELL', 'quantity': 0.0001, 'triggerPrice': 37141, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700762799122, 'visibleQuantity': 0.0001, 'reduceOnly': False, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'CANCELLED', 'algoStatus': 'CANCELLED'}
+===================================================
+=================ALGO REPORT===================
+2829155
+{'symbol': 'PERP_BTC_USDT', 'rootAlgoOrderId': 2829155, 'parentAlgoOrderId': 0, 'algoOrderId': 2829155, 'clientOrderId': 0, 'orderTag': 'default', 'algoType': 'STOP_LOSS', 'side': 'BUY', 'quantity': 0.0001, 'triggerPrice': 37966, 'triggerStatus': 'USELESS', 'price': 0, 'type': 'MARKET', 'triggerTradePrice': 0, 'triggerTime': 0, 'tradeId': 0, 'executedPrice': 0, 'executedQuantity': 0, 'fee': 0, 'reason': '', 'feeAsset': '', 'totalExecutedQuantity': 0, 'averageExecutedPrice': 0, 'totalFee': 0, 'timestamp': 1700762801208, 'visibleQuantity': 0.0001, 'reduceOnly': True, 'triggerPriceType': 'MARKET_PRICE', 'maker': False, 'activated': False, 'triggered': False, 'isTriggered': False, 'isMaker': False, 'isActivated': False, 'rootAlgoStatus': 'CANCELLED', 'algoStatus': 'CANCELLED'}
+===================================================
+
+
